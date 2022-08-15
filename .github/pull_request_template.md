@@ -11,3 +11,5 @@ Select the following as confirmation that the files in this repository are compl
 ### 📝 Feedback
 
 If you would like specific feedback on a particular problem please leave details here:
+No specific feedback needed.
+Testing in Jest was easy yet frustrating.
